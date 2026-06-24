@@ -1,0 +1,169 @@
+﻿{
+    "generatedAt":  "2026-06-09T10:58:32.4427819-07:00",
+    "render":  {
+                   "width":  1216,
+                   "height":  837
+               },
+    "wordPadding":  {
+                        "x":  2,
+                        "y":  0
+                    },
+    "files":  [
+                  {
+                      "file":  "83936_spread_01.riv",
+                      "pages":  [
+                                    0,
+                                    1
+                                ],
+                      "ocr":  "83936_spread_01.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_02.riv",
+                      "pages":  [
+                                    2,
+                                    3
+                                ],
+                      "ocr":  "83936_spread_02.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_04.riv",
+                      "pages":  [
+                                    4,
+                                    5
+                                ],
+                      "ocr":  "83936_spread_04.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_06.riv",
+                      "pages":  [
+                                    6,
+                                    7
+                                ],
+                      "ocr":  "83936_spread_06.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_08.riv",
+                      "pages":  [
+                                    8,
+                                    9
+                                ],
+                      "ocr":  "83936_spread_08.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_10.riv",
+                      "pages":  [
+                                    10,
+                                    11
+                                ],
+                      "ocr":  "83936_spread_10.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_12.riv",
+                      "pages":  [
+                                    12,
+                                    13
+                                ],
+                      "ocr":  "83936_spread_12.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_14.riv",
+                      "pages":  [
+                                    14,
+                                    15
+                                ],
+                      "ocr":  "83936_spread_14.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_16.riv",
+                      "pages":  [
+                                    16,
+                                    17
+                                ],
+                      "ocr":  "83936_spread_16.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_18.riv",
+                      "pages":  [
+                                    18,
+                                    19
+                                ],
+                      "ocr":  "83936_spread_18.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_20.riv",
+                      "pages":  [
+                                    20,
+                                    21
+                                ],
+                      "ocr":  "83936_spread_20.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_22.riv",
+                      "pages":  [
+                                    22,
+                                    23
+                                ],
+                      "ocr":  "83936_spread_22.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  },
+                  {
+                      "file":  "83936_spread_24.riv",
+                      "pages":  [
+                                    24,
+                                    25
+                                ],
+                      "ocr":  "83936_spread_24.ocr.json",
+                      "render":  {
+                                     "width":  1216,
+                                     "height":  837
+                                 }
+                  }
+              ]
+}
